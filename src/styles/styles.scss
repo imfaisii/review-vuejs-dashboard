@@ -1,0 +1,17 @@
+// Write your overrides
+.v-text-field .v-input__details {
+  padding-inline-start: 0 !important;
+}
+
+.v-pagination .v-btn.v-btn--density-comfortable {
+  block-size: 100%;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.v-expansion-panel {
+  background-color: #f9f9f9 !important;
+  margin-block-end: 0.7rem !important;
+}
